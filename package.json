@@ -1,0 +1,24 @@
+{
+  "name": "data-analysis-using-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "getCall.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anujaagarwal/Data-Analysis-Using-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anujaagarwal/Data-Analysis-Using-JS/issues"
+  },
+  "homepage": "https://github.com/anujaagarwal/Data-Analysis-Using-JS#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
